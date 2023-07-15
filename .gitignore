@@ -1,0 +1,6 @@
+.terraform
+.terraform.lock.hcl
+key.txt
+key.txt.pub
+key.pem
+.idea
